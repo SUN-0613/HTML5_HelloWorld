@@ -11,5 +11,6 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="Sample1.html" />
+    <None Include="Sample2.html" />
   </ItemGroup>
 </Project>
